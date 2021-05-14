@@ -7,6 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 厉害了，我的奇哥！
 
+## 随笔
+- [HTML](/html)
+
 ```markdown
 Syntax highlighted code block
 
