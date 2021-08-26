@@ -1,39 +1,15 @@
-## Welcome to GitHub Pages
+## 李奇的静态博客
 
-You can use the [editor on GitHub](https://github.com/liqi1997/test-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+年复一年，日复一日。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 目录
+- [前端](/front-end/index.md)
+- [前端](/front-end/index.md)
+- [前端](/front-end/index.md)
+- [前端](/front-end/index.md)
 
-### Markdown
-厉害了，我的奇哥！
+### 关于本站
+基于 Github Pages 搭建。
 
-## 随笔
-- [HTML](/html)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liqi1997/test-page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 联系我
+如果想联系我，给我个 issue 吧，我看到会回复的。
